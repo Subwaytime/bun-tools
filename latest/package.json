@@ -1,0 +1,16 @@
+{
+  "name": "bun-latest",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@subwaytime/eslint-config": "^0.0.11",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.7.0",
+    "picocolors": "^1.0.0"
+  }
+}
